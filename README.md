@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pratyush Sanashya,21
 - 👀 I’m interested in iOS dev, React Native and Web Dev
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on LinkedIn
+- 🌱 I’m currently learning iOS Devlopment
 - 📫 Reach me at pratyushsanadhya26@gmail.com
 
 <!---
