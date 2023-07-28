@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pratyush Sanashya,21
-- 👀 I’m interested in iOS dev, React Native and Web Dev
-- 🌱 I’m currently learning React
-- 📫 Reach me at pratyushsanadhya26@gmail.com
+- 👋 Hi, I’m Pratyush Sanashya,22
+- 👀 I’m interested in Frontend(React.js), Web Dev and iOS dev.
+- 🌱 I’m currently learning React.js
+- 📫 Reach me at pratyushsanadhya@gmail.com
 
 <!---
 pratyusssh/pratyusssh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
